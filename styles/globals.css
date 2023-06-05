@@ -1,0 +1,9 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Permanent+Marker&display=swap');
+
+/* GLOBAL */
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
